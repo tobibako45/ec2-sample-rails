@@ -10,6 +10,8 @@ gem 'sqlite3', '~> 1.4'
 # mysql
 gem 'mysql2'
 
+gem 'mini_racer'
+
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
